@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/nikola/ZAD9_Semafor/semafor.xst" -ofn "/home/nikola/ZAD9_Semafor/semafor.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD9_Semafor/semafor.xst" -ofn "/home/nikola/ZAD9_Semafor/semafor.syr" 

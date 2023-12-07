@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/nikola/ZAD5_Brojilo0_9/freqDivGen.xst" -ofn "/home/nikola/ZAD5_Brojilo0_9/freqDivGen.syr" 

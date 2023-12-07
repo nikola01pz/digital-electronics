@@ -1,0 +1,4 @@
+vhdl work "xor2.vhd"
+vhdl work "t_bist.vhd"
+vhdl work "freqDivGen.vhd"
+vhdl work "sklop.vhd"

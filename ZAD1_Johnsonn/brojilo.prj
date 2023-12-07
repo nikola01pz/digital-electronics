@@ -1,0 +1,3 @@
+vhdl work "freqDivGen.vhd"
+vhdl work "d_bist.vhd"
+vhdl work "brojilo.vhd"

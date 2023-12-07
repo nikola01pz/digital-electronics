@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/nikola/ZAD8_Timer/timer.xst" -ofn "/home/nikola/ZAD8_Timer/timer.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD8_Timer/timer.xst" -ofn "/home/nikola/ZAD8_Timer/timer.syr" 

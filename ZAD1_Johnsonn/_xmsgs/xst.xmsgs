@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="439" delta="old" >"/home/nikola/ZAD1_Johnsonn/brojilo.vhd" Line 20: Formal port <arg fmt="%s" index="1">q</arg> of mode <arg fmt="%s" index="2">out</arg> cannot be associated with actual port <arg fmt="%s" index="3">izlaz</arg> of mode <arg fmt="%s" index="4">buffer</arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="439" delta="old" >"/home/nikola/ZAD1_Johnsonn/brojilo.vhd" Line 21: Formal port <arg fmt="%s" index="1">q</arg> of mode <arg fmt="%s" index="2">out</arg> cannot be associated with actual port <arg fmt="%s" index="3">izlaz</arg> of mode <arg fmt="%s" index="4">buffer</arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="439" delta="old" >"/home/nikola/ZAD1_Johnsonn/brojilo.vhd" Line 22: Formal port <arg fmt="%s" index="1">q</arg> of mode <arg fmt="%s" index="2">out</arg> cannot be associated with actual port <arg fmt="%s" index="3">izlaz</arg> of mode <arg fmt="%s" index="4">buffer</arg>
+</msg>
+
+</messages>
+

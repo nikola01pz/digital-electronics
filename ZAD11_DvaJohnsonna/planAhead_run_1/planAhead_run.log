@@ -1,0 +1,29 @@
+
+****** PlanAhead v14.7 (64-bit)
+  **** Build 321239 by xbuild on Fri Sep 27 19:24:36 MDT 2013
+    ** Copyright 1986-1999, 2001-2013 Xilinx, Inc. All Rights Reserved.
+
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+WARNING: [Common 17-301] Failed to get a license: PlanAhead
+INFO: [Device 21-36] Loading parts and site information from /opt/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [/opt/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [/opt/Xilinx/14.7/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+WARNING: [Common 17-301] Failed to get a license: PlanAhead
+source /home/nikola/ZAD11_DvaJohnsonna/pa.fromHdl.tcl
+# create_project -name ZAD11_DvaJohnsonna -dir "/home/nikola/ZAD11_DvaJohnsonna/planAhead_run_1" -part xc6slx16csg324-3
+# set_param project.pinAheadLayout yes
+# set srcset [get_property srcset [current_run -impl]]
+# set_property target_constrs_file "sklop.ucf" [current_fileset -constrset]
+Adding file '/home/nikola/ZAD11_DvaJohnsonna/sklop.ucf' to fileset 'constrs_1'
+# set hdlfile [add_files [list {freqDivGen.vhd}]]
+# set_property file_type VHDL $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {sklop.vhd}]]
+# set_property file_type VHDL $hdlfile
+# set_property library work $hdlfile
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Common 17-344] 'source' was cancelled
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1

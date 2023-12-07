@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/nikola/ZAD10_XS3brojilo/brojilo.xst" -ofn "/home/nikola/ZAD10_XS3brojilo/brojilo.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD10_XS3brojilo/brojilo.xst" -ofn "/home/nikola/ZAD10_XS3brojilo/brojilo.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD10_XS3brojilo/brojilo.xst" -ofn "/home/nikola/ZAD10_XS3brojilo/brojilo.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD10_XS3brojilo/brojilo.xst" -ofn "/home/nikola/ZAD10_XS3brojilo/brojilo.syr" 
+netgen -intstyle ise -ar Structure -tm brojilo -w -dir netgen/synthesis -ofmt vhdl -sim brojilo.ngc brojilo_synthesis.vhd 
+xst -intstyle ise -ifn "/home/nikola/ZAD10_XS3brojilo/brojilo.xst" -ofn "/home/nikola/ZAD10_XS3brojilo/brojilo.syr" 

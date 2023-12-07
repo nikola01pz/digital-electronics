@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="ZAD5_Brojilo0_9.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="brojilo.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="brojilo.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="brojilo.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="brojilo.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="brojilo.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="brojilo.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="brojilo_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="brojilo_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="freqDivGen.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="freqDivGen.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="freqDivGen.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="freqDivGen.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="freqDivGen.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="freqDivGen.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="freqDivGen.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="freqDivGen.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="freqDivGen_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="freqDivGen_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="hex_sedam_seg.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="hex_sedam_seg.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="hex_sedam_seg.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="sklop.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="sklop.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="sklop.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="sklop.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sklop.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="sklop.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="sklop.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="sklop.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="sklop_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="sklop_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sklop_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1656798963" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1656798963">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656801417" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="7600094564740115978" xil_pn:start_ts="1656801417">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656801417" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-689880102276241959" xil_pn:start_ts="1656801417">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656798963" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1656798963">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656801417" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-8241530828606895412" xil_pn:start_ts="1656801417">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656798963" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1106364426758808884" xil_pn:start_ts="1656798963">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656801417" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-1845612940874577757" xil_pn:start_ts="1656801417">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656851480" xil_pn:in_ck="-3959016214533376400" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="-4933675756157037518" xil_pn:start_ts="1656851476">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="freqDivGen.ngr"/>
+      <outfile xil_pn:name="sklop.lso"/>
+      <outfile xil_pn:name="sklop.ngc"/>
+      <outfile xil_pn:name="sklop.ngr"/>
+      <outfile xil_pn:name="sklop.prj"/>
+      <outfile xil_pn:name="sklop.stx"/>
+      <outfile xil_pn:name="sklop.syr"/>
+      <outfile xil_pn:name="sklop.xst"/>
+      <outfile xil_pn:name="sklop_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

@@ -1,0 +1,3 @@
+vhdl work "hex_sedam_Seg.vhd"
+vhdl work "freqDivGen.vhd"
+vhdl work "sklop.vhd"

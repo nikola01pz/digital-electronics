@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/nikola/ZAD11_DvaJohnsonna/sklop.xst" -ofn "/home/nikola/ZAD11_DvaJohnsonna/sklop.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD11_DvaJohnsonna/sklop.xst" -ofn "/home/nikola/ZAD11_DvaJohnsonna/sklop.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD11_DvaJohnsonna/sklop.xst" -ofn "/home/nikola/ZAD11_DvaJohnsonna/sklop.syr" 
+netgen -intstyle ise -ar Structure -tm sklop -w -dir netgen/synthesis -ofmt vhdl -sim sklop.ngc sklop_synthesis.vhd 
+xst -intstyle ise -ifn "/home/nikola/ZAD11_DvaJohnsonna/sklop.xst" -ofn "/home/nikola/ZAD11_DvaJohnsonna/sklop.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD11_DvaJohnsonna/sklop.xst" -ofn "/home/nikola/ZAD11_DvaJohnsonna/sklop.syr" 

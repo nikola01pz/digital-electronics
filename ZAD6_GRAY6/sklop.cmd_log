@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/nikola/ZAD6_GRAY6/sklop.xst" -ofn "/home/nikola/ZAD6_GRAY6/sklop.syr" 
+xst -intstyle ise -ifn "/home/nikola/ZAD6_GRAY6/sklop.xst" -ofn "/home/nikola/ZAD6_GRAY6/sklop.syr" 
